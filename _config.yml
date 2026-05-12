@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
-  employer         : "Red Brick University"
+  employer         : "Secret"
   uri              : # URL
-  email            : "palozeblocks@gmail.com" 
+  # email            : "palozeblocks@gmail.com" 
 
   # Academic websites
   # academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
